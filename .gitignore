@@ -1,0 +1,12 @@
+# Raw data - too large for GitHub, and not authored content
+statcast_2026.parquet
+
+# Local-only files, not needed for the repo
+dashboard_archive/
+update_log.txt
+*.pyc
+__pycache__/
+.DS_Store
+
+# Jupyter checkpoint folders
+.ipynb_checkpoints/
